@@ -28,6 +28,6 @@
 
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathyanarayanan-dhanuskodi&show_icons=true&locale=en&layout=compact" alt="sathyanarayanan-dhanuskodi" /></span>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathyanarayanan-dhanuskodi&show_icons=true&locale=en" alt="sathyanarayanan-dhanuskodi" /></p>
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathyanarayanan-dhanuskodi&show_icons=true&locale=en" alt="sathyanarayanan-dhanuskodi" /></span>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathyanarayanan-dhanuskodi&" alt="sathyanarayanan-dhanuskodi" /></p>
