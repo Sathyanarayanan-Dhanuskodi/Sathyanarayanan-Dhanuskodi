@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
-- 👯 I’m looking to collaborate on **Full stack development conributions**
+- 👯 I’m looking to collaborate on **Full stack development contributions**
 
-- 💬 Ask me about **Nodejs, React, Nextjs, Javascript**
+- 💬 Ask me about **Nodejs, React, Nextjs, Javascript, Typescript**
 
 
 <h3 align="left">Connect with me:</h3>
