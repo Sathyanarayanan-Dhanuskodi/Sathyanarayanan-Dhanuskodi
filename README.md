@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Nodejs, React, Nextjs, Javascript, Typescript**
 
-<h3>See more about me at</h3> - <a href="https://sathyanarayanan.vercel.app/">My website</a>
+<h3>See more about me at</h3><a href="https://sathyanarayanan.vercel.app/" target="_blank">My website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
